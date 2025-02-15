@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=plastic" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ldotmithu&label=Profile+Views&color=blue&style=plastic" alt="profile views"/>
 </p>
 
 ---
@@ -33,19 +33,18 @@
 
 ### 🌟 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ldotmithu&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ldotmithu&theme=radical" />
 </p>
 
 ---
 
 ### 📫 **Let's Connect!**
 - 🌐 **Portfolio:** [Coming Soon]  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 📧 **Email:** your.email@example.com  
-- 📝 **GitHub:** [github.com/your-username](https://github.com/your-username)  
+- 💼 **LinkedIn:** [linkedin.com/in/ldotmithu](https://linkedin.com/in/ldotmithu)  
+- 📧 **Email:** lingeswaranmithurshan222@gmail.com  
+- 📝 **GitHub:** [github.com/ldotmithu](https://github.com/ldotmithu)  
 
 ---
 
 🚀 **Excited to kickstart my career in AI & Data Science!**  
-
