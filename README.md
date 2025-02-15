@@ -53,12 +53,13 @@
 </p>
 
 #### **Areas of Interest**
-- 🤖 Machine Learning & Deep Learning  
-- 🖼️ Computer Vision (CV)  
-- 💬 Natural Language Processing (NLP)  
+- 📊 Machine Learning & Deep Learning  
+- 📝 Natural Language Processing (NLP)
+- 🧠 Computer Vision (CV)  
 - 📚 Large Language Models (LLM)  
-- 🎨 Generative AI  
+- 🖥️ Generative AI  
 - ⚙️ MLOps
+
 
 
 ### 🌟 **GitHub Stats**
