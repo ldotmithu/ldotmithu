@@ -10,7 +10,7 @@
 ### 🚀 **About Me**
 🎓 **Fresher Data Scientist** from **Sri Lanka** with a strong passion for **Machine Learning, Deep Learning, and Generative AI**.  
 💡 Skilled in developing ML models, working with AI frameworks, and building real-world applications.  
-📖 Currently learning **LLMs, LangChain, and MLOps** to explore the future of AI-powered applications.  
+📚 Currently learning **LLMs, LangChain, and MLOps** to explore the future of AI-powered applications.  
 🔍 **Open to opportunities** in AI, ML, and Data Science roles.  
 
 ---
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FECC00?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps-00C853?style=for-the-badge&logo=mlops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagshub-000000?style=for-the-badge&logo=dagshub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 #### **Data Science & Visualization**
@@ -62,7 +64,7 @@
 
 ---
 
-### 📫 **Let's Connect!**
+### 💋 **Let's Connect!**
 <p align="center">
   <a href="https://github.com/ldotmithu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -77,4 +79,4 @@
 
 ---
 
-🚀 **Excited to kickstart my career in AI & Data Science!**  
+🚀 **Excited to kickstart my career in AI & Data Science!**
