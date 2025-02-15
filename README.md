@@ -28,9 +28,10 @@
   <img src="https://img.shields.io/badge/MLOps-00C853?style=for-the-badge&logo=mlops&logoColor=white" />
   <img src="https://img.shields.io/badge/Dagshub-000000?style=for-the-badge&logo=dagshub&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- Adding new tech logos -->
   <img src="https://img.shields.io/badge/Google%20PaLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta%20LLAMA-00A7E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/GroqCloud-00A99D?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20LLaMA-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/GroqCloud-00BFFF?style=for-the-badge&logo=groq&logoColor=white" />
 </p>
 
 #### **Data Science & Visualization**
