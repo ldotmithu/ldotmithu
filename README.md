@@ -10,7 +10,7 @@
 ### 🚀 **About Me**
 🎓 **Fresher Data Scientist** from **Sri Lanka** with a strong passion for **Machine Learning, Deep Learning, and Generative AI**.  
 💡 Skilled in developing ML models, working with AI frameworks, and building real-world applications.  
-📚 Currently learning **LLMs, LangChain, and MLOps** to explore the future of AI-powered applications.  
+📚 Currently learning **LLMs, LangChain** to explore the future of AI-powered applications.  
 🔍 **Open to opportunities** in AI, ML, and Data Science roles.  
 
 ---
