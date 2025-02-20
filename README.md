@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠 **Tech Skills**  
+### 🛠 **Tech Stack**  
 #### **Languages & Tools**  
 <p align="center">  
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>  
@@ -51,16 +51,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>  
 </p>  
 
-
-#### **Areas of Interest**
-- 📊 Machine Learning & Deep Learning  
-- 📝 Natural Language Processing (NLP)
-- 🧠 Computer Vision (CV)  
-- 📚 Large Language Models (LLM)  
-- 🖥️ Generative AI  
-- ⚙️ MLOps
-
-
+---
 
 ### 🌟 **GitHub Stats**
 <p align="center">
@@ -70,7 +61,28 @@
 
 ---
 
-### 💋 **Let's Connect!**
+### 📂 **Featured Projects**
+#### [Project 1: AI-Powered Chatbot](https://github.com/ldotmithu/ai-chatbot)
+- Built a chatbot using **LangChain** and **Hugging Face Transformers**.
+- Integrated with **Google PaLM** for enhanced conversational capabilities.
+
+#### [Project 2: Image Classification with CNN](https://github.com/ldotmithu/image-classification-cnn)
+- Developed a Convolutional Neural Network (CNN) for image classification using **TensorFlow**.
+- Achieved **95% accuracy** on the CIFAR-10 dataset.
+
+#### [Project 3: Sentiment Analysis with NLP](https://github.com/ldotmithu/sentiment-analysis-nlp)
+- Performed sentiment analysis on Twitter data using **NLTK** and **Scikit-learn**.
+- Visualized results using **Matplotlib** and **Seaborn**.
+
+---
+
+### 📚 **Blogs & Articles**
+- [Getting Started with LangChain](https://medium.com/@mithurshan/getting-started-with-langchain-123456)
+- [Introduction to MLOps](https://medium.com/@mithurshan/introduction-to-mlops-789101)
+
+---
+
+### 💌 **Let's Connect!**
 <p align="center">
   <a href="https://github.com/ldotmithu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -80,6 +92,9 @@
   </a>
   <a href="mailto:lingeswaranmithurshan222@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mithurshan">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
