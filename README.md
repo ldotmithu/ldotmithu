@@ -81,6 +81,9 @@
   <a href="mailto:lingeswaranmithurshan222@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+   <a href="https://ldotmithuportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 <picture>
