@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm L. Mithurshan 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning & AI Enthusiast</h3>
+<h3 align="center"> Data Scientist | Machine Learning & AI Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ldotmithu&label=Profile+Views&color=blue&style=plastic" alt="profile views"/>
@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 **About Me**
-🎓 **Fresher Data Scientist** from **Sri Lanka** with a strong passion for **Machine Learning, Deep Learning, and Generative AI**.  
+🎓 ** Data Scientist** from **Sri Lanka** with a strong passion for **Machine Learning, Deep Learning, and Generative AI**.  
 💡 Skilled in developing ML models, working with AI frameworks, and building real-world applications.  
 📚 Currently learning **LLMs, LangChain** to explore the future of AI-powered applications.  
 🔍 **Open to opportunities** in AI, ML, and Data Science roles.  
